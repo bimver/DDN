@@ -7,7 +7,7 @@
 
 ###Test your images
 1. Download the project code
-2. Download our pretrained model from Baidu Yun()
+2. Download our pretrained model from Baidu Yun (https://pan.baidu.com/s/1psLBqqjGSmF0GFyQX9mzog)
 3. Change the image path and save path in test.py
 4. Run --python test.py
 
