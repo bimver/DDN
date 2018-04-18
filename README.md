@@ -16,3 +16,4 @@
 2. Run --python create_caffe_data.py
 3. Chang the txt path(created by create_caffe_data.py) in DDN.prototxt
 4. Run --python solve.py
+DenseNet-161 can be downloaded from https://pan.baidu.com/s/1gfjD8cF#list/path=%2F
